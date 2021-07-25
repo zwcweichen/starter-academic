@@ -1,6 +1,6 @@
 ---
 title: 曾偉宸
-role: Professor of Artificial Intelligence
+role: 中興大學物理系光電物理組
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
