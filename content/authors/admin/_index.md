@@ -15,8 +15,8 @@ social:
     icon_pack: fab
     link: https://github.com/zwcweichen
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 中興大學
+    url: https://www.nchu.edu.tw/index1.php
 education:
   courses:
     - course: PhD in Artificial Intelligence
