@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: weichen415263@gmail.com
+    link: "#"
   - icon: github
     icon_pack: fab
     link: https://github.com/zwcweichen
